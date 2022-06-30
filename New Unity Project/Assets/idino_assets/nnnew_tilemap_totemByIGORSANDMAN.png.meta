@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: 9473b3a1aec34e9409e0c2717517afee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2014334360402253121
+    second: nnnew_tilemap_totemByIGORSANDMAN_0
+  - first:
+      213: 1824455291694738629
+    second: nnnew_tilemap_totemByIGORSANDMAN_1
+  - first:
+      213: -6008784275024258852
+    second: nnnew_tilemap_totemByIGORSANDMAN_2
+  - first:
+      213: 2918012711973963352
+    second: nnnew_tilemap_totemByIGORSANDMAN_3
+  - first:
+      213: -4509511616389814886
+    second: nnnew_tilemap_totemByIGORSANDMAN_4
+  - first:
+      213: 1241605412085336523
+    second: nnnew_tilemap_totemByIGORSANDMAN_5
+  - first:
+      213: 1326291691254632191
+    second: nnnew_tilemap_totemByIGORSANDMAN_6
+  - first:
+      213: -1355278138360213075
+    second: nnnew_tilemap_totemByIGORSANDMAN_7
+  - first:
+      213: -3243666617930492759
+    second: nnnew_tilemap_totemByIGORSANDMAN_8
+  - first:
+      213: 3665943397953644749
+    second: nnnew_tilemap_totemByIGORSANDMAN_9
+  - first:
+      213: -3872223664600031123
+    second: nnnew_tilemap_totemByIGORSANDMAN_10
+  - first:
+      213: -8146471760750361803
+    second: nnnew_tilemap_totemByIGORSANDMAN_11
+  - first:
+      213: 1457775771993986771
+    second: nnnew_tilemap_totemByIGORSANDMAN_12
+  - first:
+      213: 4105778357754850261
+    second: nnnew_tilemap_totemByIGORSANDMAN_13
+  - first:
+      213: -3504453694794004156
+    second: nnnew_tilemap_totemByIGORSANDMAN_14
+  - first:
+      213: 3177418430984031785
+    second: nnnew_tilemap_totemByIGORSANDMAN_15
+  - first:
+      213: 7288578027357705634
+    second: nnnew_tilemap_totemByIGORSANDMAN_16
+  - first:
+      213: 1939231255779316693
+    second: nnnew_tilemap_totemByIGORSANDMAN_17
+  - first:
+      213: 6560812914892361369
+    second: nnnew_tilemap_totemByIGORSANDMAN_18
+  - first:
+      213: 1711092173134063092
+    second: nnnew_tilemap_totemByIGORSANDMAN_19
+  - first:
+      213: 955188596456194387
+    second: nnnew_tilemap_totemByIGORSANDMAN_20
+  - first:
+      213: 7774522971650725006
+    second: nnnew_tilemap_totemByIGORSANDMAN_21
+  - first:
+      213: -5103487718482548253
+    second: nnnew_tilemap_totemByIGORSANDMAN_22
+  - first:
+      213: 666037605553016441
+    second: nnnew_tilemap_totemByIGORSANDMAN_23
+  - first:
+      213: 1188442369779626787
+    second: nnnew_tilemap_totemByIGORSANDMAN_24
+  - first:
+      213: 7545814783133035151
+    second: nnnew_tilemap_totemByIGORSANDMAN_25
+  - first:
+      213: 5303005597290322950
+    second: nnnew_tilemap_totemByIGORSANDMAN_26
+  - first:
+      213: -5776768817366330883
+    second: nnnew_tilemap_totemByIGORSANDMAN_27
+  - first:
+      213: 4301708315007275890
+    second: nnnew_tilemap_totemByIGORSANDMAN_28
+  - first:
+      213: 127998966337733544
+    second: nnnew_tilemap_totemByIGORSANDMAN_29
+  - first:
+      213: -4056045795935359699
+    second: nnnew_tilemap_totemByIGORSANDMAN_30
+  - first:
+      213: 2564699538563887594
+    second: nnnew_tilemap_totemByIGORSANDMAN_31
+  - first:
+      213: -9169463049746753188
+    second: nnnew_tilemap_totemByIGORSANDMAN_32
+  - first:
+      213: -1336312223380485457
+    second: nnnew_tilemap_totemByIGORSANDMAN_33
+  - first:
+      213: -559111109274666639
+    second: nnnew_tilemap_totemByIGORSANDMAN_34
+  - first:
+      213: -4063729834154044927
+    second: nnnew_tilemap_totemByIGORSANDMAN_35
+  - first:
+      213: 2238966948740046972
+    second: nnnew_tilemap_totemByIGORSANDMAN_36
+  - first:
+      213: 918082815441451141
+    second: nnnew_tilemap_totemByIGORSANDMAN_37
+  - first:
+      213: -8928339693100426181
+    second: nnnew_tilemap_totemByIGORSANDMAN_38
+  - first:
+      213: -7922082614950370156
+    second: nnnew_tilemap_totemByIGORSANDMAN_39
+  - first:
+      213: -2038462452150574966
+    second: nnnew_tilemap_totemByIGORSANDMAN_40
+  - first:
+      213: 5198410026158394592
+    second: nnnew_tilemap_totemByIGORSANDMAN_41
+  - first:
+      213: 3372385324434309827
+    second: nnnew_tilemap_totemByIGORSANDMAN_42
+  - first:
+      213: 1873403300711603274
+    second: nnnew_tilemap_totemByIGORSANDMAN_43
+  - first:
+      213: -5518158580774147891
+    second: nnnew_tilemap_totemByIGORSANDMAN_44
+  - first:
+      213: 2918138740376271149
+    second: nnnew_tilemap_totemByIGORSANDMAN_45
+  - first:
+      213: -3147768224923109354
+    second: nnnew_tilemap_totemByIGORSANDMAN_46
+  - first:
+      213: 5225060272217047646
+    second: nnnew_tilemap_totemByIGORSANDMAN_47
+  - first:
+      213: -6537711848223820648
+    second: nnnew_tilemap_totemByIGORSANDMAN_48
+  - first:
+      213: -2727738393387496215
+    second: nnnew_tilemap_totemByIGORSANDMAN_49
+  - first:
+      213: -1508880544724515188
+    second: nnnew_tilemap_totemByIGORSANDMAN_50
+  - first:
+      213: 7493144323308076161
+    second: nnnew_tilemap_totemByIGORSANDMAN_51
+  - first:
+      213: 3097076151642480602
+    second: nnnew_tilemap_totemByIGORSANDMAN_52
+  - first:
+      213: -3897010256175017596
+    second: nnnew_tilemap_totemByIGORSANDMAN_53
+  - first:
+      213: 7142805517347880035
+    second: nnnew_tilemap_totemByIGORSANDMAN_54
+  - first:
+      213: -2180832938913208779
+    second: nnnew_tilemap_totemByIGORSANDMAN_55
+  - first:
+      213: 6944580779811318392
+    second: nnnew_tilemap_totemByIGORSANDMAN_56
+  - first:
+      213: 6648643031270562112
+    second: nnnew_tilemap_totemByIGORSANDMAN_57
+  - first:
+      213: -1987366051304253824
+    second: nnnew_tilemap_totemByIGORSANDMAN_58
+  - first:
+      213: -143323885478669625
+    second: nnnew_tilemap_totemByIGORSANDMAN_59
+  - first:
+      213: 8407150658303297869
+    second: nnnew_tilemap_totemByIGORSANDMAN_60
+  - first:
+      213: -7717933909872589319
+    second: nnnew_tilemap_totemByIGORSANDMAN_61
+  - first:
+      213: -2783352978031856883
+    second: nnnew_tilemap_totemByIGORSANDMAN_62
+  - first:
+      213: -5539685085601970081
+    second: nnnew_tilemap_totemByIGORSANDMAN_63
+  - first:
+      213: 4407988521560054964
+    second: nnnew_tilemap_totemByIGORSANDMAN_64
+  - first:
+      213: -3843459188851166195
+    second: nnnew_tilemap_totemByIGORSANDMAN_65
+  - first:
+      213: 7656578573022661021
+    second: nnnew_tilemap_totemByIGORSANDMAN_66
+  - first:
+      213: -6641070147684654322
+    second: nnnew_tilemap_totemByIGORSANDMAN_67
+  - first:
+      213: 2575083991055296900
+    second: nnnew_tilemap_totemByIGORSANDMAN_68
+  - first:
+      213: -3274354904843569080
+    second: nnnew_tilemap_totemByIGORSANDMAN_69
+  - first:
+      213: 3824857908323276443
+    second: nnnew_tilemap_totemByIGORSANDMAN_70
+  - first:
+      213: -6999433537282795767
+    second: nnnew_tilemap_totemByIGORSANDMAN_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d3aaad6a54fb10800000000000000
+      internalID: 2014334360402253121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cceb02eb64c15910800000000000000
+      internalID: 1824455291694738629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8d93ba9828c9ca0800000000000000
+      internalID: -6008784275024258852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856484be91dde7820800000000000000
+      internalID: 2918012711973963352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95669ac31ffa61c0800000000000000
+      internalID: -4509511616389814886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc98c824b811b3110800000000000000
+      internalID: 1241605412085336523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec8c5244fe76210800000000000000
+      internalID: 1326291691254632191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1df27b6b5113de0800000000000000
+      internalID: -1355278138360213075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4d57c856e2cf2d0800000000000000
+      internalID: -3243666617930492759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc827b1f81c00e230800000000000000
+      internalID: 3665943397953644749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6067acc719134ac0800000000000000
+      internalID: -3872223664600031123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53349bf681be1fe80800000000000000
+      internalID: -8146471760750361803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65fdb475f0b3410800000000000000
+      internalID: 1457775771993986771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe67cb9a7aaf830800000000000000
+      internalID: 4105778357754850261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4498ff59eedad5fc0800000000000000
+      internalID: -3504453694794004156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e05917a35781c20800000000000000
+      internalID: 3177418430984031785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59f5e691b362560800000000000000
+      internalID: 7288578027357705634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d39f0a7d8889ea10800000000000000
+      internalID: 1939231255779316693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e44fdd590bc0b50800000000000000
+      internalID: 6560812914892361369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f56b9504450fb710800000000000000
+      internalID: 1711092173134063092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3518649b7f2814d00800000000000000
+      internalID: 955188596456194387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841b579377a4eb60800000000000000
+      internalID: 7774522971650725006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96740a5f4cc29b0800000000000000
+      internalID: -5103487718482548253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0a066cad3e3900800000000000000
+      internalID: 666037605553016441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323fcb6e9023e7010800000000000000
+      internalID: 1188442369779626787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2989d09e18b860800000000000000
+      internalID: 7545814783133035151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd5648e7f089940800000000000000
+      internalID: 5303005597290322950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df193530e5bc4dfa0800000000000000
+      internalID: -5776768817366330883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735a5bcbecb2bb30800000000000000
+      internalID: 4301708315007275890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38d28b16eb6c100800000000000000
+      internalID: 127998966337733544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6e84a6d706b7c0800000000000000
+      internalID: -4056045795935359699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae175b754a4a79320800000000000000
+      internalID: 2564699538563887594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5956ca20f58fb080800000000000000
+      internalID: -9169463049746753188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac468ec17747de0800000000000000
+      internalID: -1336312223380485457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17975bd8863ad38f0800000000000000
+      internalID: -559111109274666639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10257141f3bba97c0800000000000000
+      internalID: -4063729834154044927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ad7bc398621f10800000000000000
+      internalID: 2238966948740046972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58837c8d47fadbc00800000000000000
+      internalID: 918082815441451141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c9abe7a5a281480800000000000000
+      internalID: -8928339693100426181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494e59ea5db1f0290800000000000000
+      internalID: -7922082614950370156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e793333de5b3e0800000000000000
+      internalID: -2038462452150574966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec000e5066742840800000000000000
+      internalID: 5198410026158394592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c5acb59e1dce20800000000000000
+      internalID: 3372385324434309827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c95f3506aaff910800000000000000
+      internalID: 1873403300711603274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8eeaad1009b63b0800000000000000
+      internalID: -5518158580774147891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29fe6139bf4f7820800000000000000
+      internalID: 2918138740376271149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618323e1a71e054d0800000000000000
+      internalID: -3147768224923109354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52c08f42a4238840800000000000000
+      internalID: 5225060272217047646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b1ca56b16545a0800000000000000
+      internalID: -6537711848223820648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec81f52260252ad0800000000000000
+      internalID: -2727738393387496215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86823393216f0be0800000000000000
+      internalID: -1508880544724515188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3389cf0ffcf760800000000000000
+      internalID: 7493144323308076161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfdbf4d9560bfa20800000000000000
+      internalID: 3097076151642480602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48152aab1d90be9c0800000000000000
+      internalID: -3897010256175017596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c783916c7502360800000000000000
+      internalID: 7142805517347880035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5366b912fff1cb1e0800000000000000
+      internalID: -2180832938913208779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa8aedc6b106060800000000000000
+      internalID: 6944580779811318392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04912456c99b44c50800000000000000
+      internalID: 6648643031270562112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d6591b157b64e0800000000000000
+      internalID: -1987366051304253824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2173e7fafc20ef0800000000000000
+      internalID: -143323885478669625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490c511bf23ca470800000000000000
+      internalID: 8407150658303297869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54a16100464e490800000000000000
+      internalID: -7717933909872589319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b2eb963b8f59d0800000000000000
+      internalID: -2783352978031856883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f584a21e3c51f13b0800000000000000
+      internalID: -5539685085601970081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc1691b4325c2d30800000000000000
+      internalID: 4407988521560054964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b0d33b3a49aac0800000000000000
+      internalID: -3843459188851166195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9902e755a1a14a60800000000000000
+      internalID: 7656578573022661021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e032ec6f2ed26d3a0800000000000000
+      internalID: -6641070147684654322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48965a91f398cb320800000000000000
+      internalID: 2575083991055296900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848bd34ff872f82d0800000000000000
+      internalID: -3274354904843569080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d3fda000a41530800000000000000
+      internalID: 3824857908323276443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nnnew_tilemap_totemByIGORSANDMAN_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079d4d48440dde90800000000000000
+      internalID: -6999433537282795767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

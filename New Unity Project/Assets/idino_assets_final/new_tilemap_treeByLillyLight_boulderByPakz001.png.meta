@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: fd6a963b4058be3429eaabb7d1d60f4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3243174235981782713
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_0
+  - first:
+      213: -8660965851359007682
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_1
+  - first:
+      213: -166690730891848160
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_2
+  - first:
+      213: 5134334915084247436
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_3
+  - first:
+      213: 125531132782342532
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_4
+  - first:
+      213: -2749913885756862387
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_5
+  - first:
+      213: 3537185742069154840
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_6
+  - first:
+      213: 4376087610177008450
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_7
+  - first:
+      213: -7121201750856288414
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_8
+  - first:
+      213: -7551666521248332754
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_9
+  - first:
+      213: -8638074201939051129
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_10
+  - first:
+      213: 2204244767804407532
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_11
+  - first:
+      213: -3278689353970057015
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_12
+  - first:
+      213: 4679261197991240739
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_13
+  - first:
+      213: -4080522301583119850
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_14
+  - first:
+      213: -7163149172956095107
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_15
+  - first:
+      213: 202287107581414593
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_16
+  - first:
+      213: -8051039778957571978
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_17
+  - first:
+      213: 2985273101449081619
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_18
+  - first:
+      213: 1656483396548536946
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_19
+  - first:
+      213: -607919158761328478
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_20
+  - first:
+      213: -264774340387638014
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_21
+  - first:
+      213: -6508039610063081107
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_22
+  - first:
+      213: -5425535360796113789
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_23
+  - first:
+      213: -4881622050516838534
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_24
+  - first:
+      213: -2342063115866211411
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_25
+  - first:
+      213: -5209015230283428189
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_26
+  - first:
+      213: 3894385315727030304
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_27
+  - first:
+      213: -260606186809880802
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_28
+  - first:
+      213: -1899387460250136035
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_29
+  - first:
+      213: -6657140835171011599
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_30
+  - first:
+      213: 9064378665686174557
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_31
+  - first:
+      213: -8013435785780360921
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_32
+  - first:
+      213: 4466804511125586227
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_33
+  - first:
+      213: -5946573853087012687
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_34
+  - first:
+      213: -7065744484173577135
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_35
+  - first:
+      213: -4971906199494830030
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_36
+  - first:
+      213: 6417341560019252190
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_37
+  - first:
+      213: 5504616105093262721
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_38
+  - first:
+      213: 8139555745648528355
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_39
+  - first:
+      213: -5905163121415065098
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_40
+  - first:
+      213: -4537243105737644828
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_41
+  - first:
+      213: -3144641797238246834
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_42
+  - first:
+      213: 1211132332143856581
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_43
+  - first:
+      213: -6014797440423337749
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_44
+  - first:
+      213: -4899956581444280787
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_45
+  - first:
+      213: 5245867468044614543
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_46
+  - first:
+      213: -3871707879422443173
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_47
+  - first:
+      213: 5869222428141657028
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_48
+  - first:
+      213: 251701378554838194
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_49
+  - first:
+      213: 6497259014554721813
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_50
+  - first:
+      213: 1952137019773967407
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_51
+  - first:
+      213: -2568093288625454632
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_52
+  - first:
+      213: -6194566342118928170
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_53
+  - first:
+      213: -1202494633595608809
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_54
+  - first:
+      213: -413352433832222844
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_55
+  - first:
+      213: -3686607157964003985
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_56
+  - first:
+      213: -6592425070034910318
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_57
+  - first:
+      213: -451833842705970919
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_58
+  - first:
+      213: -7235101566900436541
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_59
+  - first:
+      213: -6219015026248355744
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_60
+  - first:
+      213: 8755803039870998523
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_61
+  - first:
+      213: -6112332549847688385
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_62
+  - first:
+      213: 1582564027095666264
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_63
+  - first:
+      213: -6932289578990224845
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_64
+  - first:
+      213: 3357068263362852105
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_65
+  - first:
+      213: -4653905643442591283
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_66
+  - first:
+      213: -4357137690260885914
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_67
+  - first:
+      213: -5531356653980132332
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_68
+  - first:
+      213: -1987659428023641545
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_69
+  - first:
+      213: 6781417727442576005
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_70
+  - first:
+      213: -4113419421427037354
+    second: new_tilemap_treeByLillyLight_boulderByPakz001_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7416b97273eedf2d0800000000000000
+      internalID: -3243174235981782713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c25f922711ec780800000000000000
+      internalID: -8660965851359007682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02657d5d9abcfadf0800000000000000
+      internalID: -166690730891848160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c816b730762d04740800000000000000
+      internalID: 5134334915084247436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4817eb176e9fdb100800000000000000
+      internalID: 125531132782342532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405c8cf3e756d9d0800000000000000
+      internalID: -2749913885756862387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814cb9c01bb961130800000000000000
+      internalID: 3537185742069154840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243b696fe7cfabc30800000000000000
+      internalID: 4376087610177008450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673252ccb86c2d90800000000000000
+      internalID: -7121201750856288414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2488c23f47133790800000000000000
+      internalID: -7551666521248332754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df4f1a7456f1880800000000000000
+      internalID: -8638074201939051129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceebefe00fc079e10800000000000000
+      internalID: 2204244767804407532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c082cf5761cf72d0800000000000000
+      internalID: -3278689353970057015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324698d844310f040800000000000000
+      internalID: 4679261197991240739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a241416921f57c0800000000000000
+      internalID: -4080522301583119850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d91d877c1679c90800000000000000
+      internalID: -7163149172956095107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc08067d0baec200800000000000000
+      internalID: 202287107581414593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678c1be2af5f44090800000000000000
+      internalID: -8051039778957571978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b661b112dd6920800000000000000
+      internalID: 2985273101449081619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aab9b6fd20df610800000000000000
+      internalID: 1656483396548536946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a070e9febc3097f0800000000000000
+      internalID: -607919158761328478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057e87e325535cf0800000000000000
+      internalID: -264774340387638014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b40aa47ccea5a0800000000000000
+      internalID: -6508039610063081107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844d67c550a4b4b0800000000000000
+      internalID: -5425535360796113789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77da37eb9ef04cb0800000000000000
+      internalID: -4881622050516838534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabff3141025f7fd0800000000000000
+      internalID: -2342063115866211411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4b512f3cd5b7b0800000000000000
+      internalID: -5209015230283428189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283862bfc2ab0630800000000000000
+      internalID: 3894385315727030304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8de8cd04226cf0800000000000000
+      internalID: -260606186809880802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1295f41b2504a5e0800000000000000
+      internalID: -1899387460250136035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f372e37ea51d93a0800000000000000
+      internalID: -6657140835171011599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8add0f542bcd70800000000000000
+      internalID: 9064378665686174557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729882e1c9e8ac090800000000000000
+      internalID: -8013435785780360921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c0c669074dfd30800000000000000
+      internalID: 4466804511125586227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b86f104696897da0800000000000000
+      internalID: -5946573853087012687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154882bd3de61fd90800000000000000
+      internalID: -7065744484173577135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2385c8267ad300bb0800000000000000
+      internalID: -4971906199494830030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37c47f52afe0950800000000000000
+      internalID: 6417341560019252190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d6af0de23546c40800000000000000
+      internalID: 5504616105093262721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebced053d285f070800000000000000
+      internalID: 8139555745648528355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1715f8d65ac0ea0800000000000000
+      internalID: -5905163121415065098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4eae64f697801c0800000000000000
+      internalID: -4537243105737644828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b4c942fcfb54d0800000000000000
+      internalID: -3144641797238246834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbcc61707ecec010800000000000000
+      internalID: 1211132332143856581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be063af7895278ca0800000000000000
+      internalID: -6014797440423337749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e1d24437bdffbb0800000000000000
+      internalID: -4899956581444280787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bb39b1ba01dc840800000000000000
+      internalID: 5245867468044614543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c1f4623ee44ac0800000000000000
+      internalID: -3871707879422443173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9321b3baa37150800000000000000
+      internalID: 5869222428141657028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbc3af1193e7300800000000000000
+      internalID: 251701378554838194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1d3856a6ea2a50800000000000000
+      internalID: 6497259014554721813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c5480d642671b10800000000000000
+      internalID: 1952137019773967407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d14a65a2cc4c5cd0800000000000000
+      internalID: -2568093288625454632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d019686bba780aa0800000000000000
+      internalID: -6194566342118928170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71168387081ef4fe0800000000000000
+      internalID: -1202494633595608809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f1366c62a734af0800000000000000
+      internalID: -413352433832222844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a423825a86dcc0800000000000000
+      internalID: -3686607157964003985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938034b3500384a0800000000000000
+      internalID: -6592425070034910318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c2049383cab9f0800000000000000
+      internalID: -451833842705970919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c107074571c79b90800000000000000
+      internalID: -7235101566900436541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06076ab88ce91b9a0800000000000000
+      internalID: -6219015026248355744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7dbca797cd28970800000000000000
+      internalID: 8755803039870998523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b55413ee1ac2ba0800000000000000
+      internalID: -6112332549847688385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e495d099566f510800000000000000
+      internalID: 1582564027095666264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a35245b5f8bcf90800000000000000
+      internalID: -6932289578990224845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905fa7c8cc3b69e20800000000000000
+      internalID: 3357068263362852105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc92b6889710a6fb0800000000000000
+      internalID: -4653905643442591283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea8861b565883c0800000000000000
+      internalID: -4357137690260885914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5589fd6cac33b0800000000000000
+      internalID: -5531356653980132332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad132084a6a64e0800000000000000
+      internalID: -1987659428023641545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58260cd5e7f6c1e50800000000000000
+      internalID: 6781417727442576005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_tilemap_treeByLillyLight_boulderByPakz001_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b06ad74d23ae6c0800000000000000
+      internalID: -4113419421427037354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
