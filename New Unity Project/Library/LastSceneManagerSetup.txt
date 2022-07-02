@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Creator Kit - RPG/Scenes/idino_map.unity
+- path: Assets/Creator Kit - RPG/Scenes/idino_Vulkano_map.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
